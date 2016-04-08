@@ -1,0 +1,51 @@
+/* Inserta tu código aqui */
+h1{ 
+	font-size: 20px;
+}
+.gran{
+		margin: 50px;
+		}
+
+
+.raya{
+		height: 3px;
+		width: 150px;
+		background-color: black;
+		margin: 0px;
+		}
+
+.contenedor{ 
+	margin: 50px;
+	display: inline-block;
+	height: 600px;
+	width: 800px;
+}
+.contenedor div { 
+	display: inline-block;
+	margin: 10px;
+}
+
+.contenedor div p{ 
+	position: relative;
+	top: -35px;
+	right: -100px;
+	color: white;
+	font-size: 12px;
+
+}
+
+img{ 
+	-webkit-filter: brightness(0.5);
+	
+	
+}
+img:hover{ 
+	-webkit-filter: brightness(1);
+	
+}
+
+
+
+
+
+
